@@ -1,0 +1,4 @@
+# 資料檔不上傳（來自課程平台）
+*.csv
+*.jpg
+.ipynb_checkpoints/
